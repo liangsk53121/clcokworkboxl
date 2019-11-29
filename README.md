@@ -1,1 +1,1 @@
-eyJvdXRib3VuZHMiOlt7InByb3RvY29sIjoidm1lc3MiLCJzZXR0aW5ncyI6eyJ2bmV4dCI6W3siYWRkcmVzcyI6ImxlZnRyaWdodC5saXZlIiwicG9ydCI6NDQzLCJ1c2VycyI6W3siaWQiOiJjY2Q3MTk5ZS0xMmE5LTQ5ZWMtOGMwMy0xZWZlZWExMWIxOTIiLCJhbHRlcklkIjoyMzM=
+{"outbounds":[{"protocol":"vmess","settings":{"vnext":[{"address":"leftright.live","port":443,"users":[{"id":"ccd7199e-12a9-49ec-8c03-1efeea11b192","alterId":233
